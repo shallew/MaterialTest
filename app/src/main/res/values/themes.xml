@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MaterialTest" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#636363</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">#9900FF</item>
+    </style>
+<!--    添加-->
+    <style name="FruitActivityTheme" parent="Theme.AppCompat">
+    </style>
+
+    <style name="Theme.MaterialTest" parent="Base.Theme.MaterialTest" />
+</resources>
